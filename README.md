@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jamesandthejpg, I’m interested in developing myself and my knowledge to become a Full-Stack Engineer.
+- 🌱 I’m currently learning Front-End Engineer on Codecademy, and also taking the freecodecamp courses, I know these arent recognised but they will provide me with necessary foundations to create masterpieces.
+- 📫 How to reach me? LinkedIn: https://www.linkedin.com/in/james-collins-350400178/ or Instagram @jamesandthejpg. 
